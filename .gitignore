@@ -1,3 +1,9 @@
+# Ignore files with the proxy settings for ADP
+.npmrc
+
+# Ignore the file with the ADP proxy for NPS
+.nsprc
+
 # Logs
 logs
 *.log
